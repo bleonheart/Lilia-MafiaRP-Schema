@@ -11,3 +11,11 @@ If you have questions regarding the schema or want to integrate with the communi
 ## Collection
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2833154367
+
+## Disclaimer
+
+If you are afraid to get backdoored, please refer to a backdoor checker like [nomalua github](https://github.com/THABBuzzkill/nomalua) or [nomalua workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=1925186507) or [GMOD Backdoor Scanner by HashFarm](https://github.com/hashfarm/Gmod-Backdoor-Scanner)
+
+Either way, this is open source code and it is easily check by someone with enough skill to comb and read the code.
+
+Refer to the discord for assistance
